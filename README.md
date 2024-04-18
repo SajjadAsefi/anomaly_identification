@@ -13,11 +13,11 @@ The column labeled as "bus" is the target column. If there are multiple buses, t
 
 The rest are feature columns and are named as:
 
-SCADA, U: observed (i.e. SCADA) voltage magnitudes\n
-SCADA, P or Q: observed (i.e. SCADA) power injection (active P or reactive Q)
-FM: Forecasted measurement
-EM: Estimated measurements
-ES: Estimated state
-ph: Phase angle
-NI: Normalized innovations
+SCADA, U: observed (i.e. SCADA) voltage magnitudes<br>
+SCADA, P or Q: observed (i.e. SCADA) power injection (active P or reactive Q)<br>
+FM: Forecasted measurement<br>
+EM: Estimated measurements<br>
+ES: Estimated state<br>
+ph: Phase angle<br>
+NI: Normalized innovations<br>
 EKF: Extended Kalman filter
