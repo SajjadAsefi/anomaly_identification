@@ -6,7 +6,7 @@ For additional information about the workflow of the method you can take a look 
 
 Codes are developed in two different environment: Matlab and python.
 
-In order to be able to run the Matlab code you must have matpower installed
+In order to be able to run the Matlab code you must have matpower installed<br>
 The power flow has been done using OPF via matpower (version 7.0).
 
 The column labeled as "bus" is the target column. If there are multiple buses, they are named with different numbers (e.g. 15 indicates the combination of bus 2 and 3).
