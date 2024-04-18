@@ -13,7 +13,7 @@ The column labeled as "bus" is the target column. If there are multiple buses, t
 
 The rest are feature columns and are named as:
 
-SCADA, U: observed (i.e. SCADA) voltage magnitudes\\
+SCADA, U: observed (i.e. SCADA) voltage magnitudes\n
 SCADA, P or Q: observed (i.e. SCADA) power injection (active P or reactive Q)
 FM: Forecasted measurement
 EM: Estimated measurements
